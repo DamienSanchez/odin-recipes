@@ -1,0 +1,29 @@
+body{
+    font-size: 16px;
+    background-color: honeydew;
+}
+h1{
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-bottom: 50px;
+}
+ol{
+    list-style: upper-roman;
+    margin-left: 400px;
+}
+li{
+    margin-bottom: 10px;
+}
+a{
+    font-size: large;
+    font-style: italic;
+    text-decoration: none;
+    color: #000;
+    padding: 2px;
+    
+}
+a:hover{
+    text-decoration: underline;
+    color: coral;
+}
